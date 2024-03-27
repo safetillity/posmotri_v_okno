@@ -1,1 +1,1 @@
-https://github.com/safetillity/posmotri_v_okno
+https://github.com/safetillity/posmotri_v_okno.git
